@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Service</string>
+    <string name="btn_request">Send</string>
+    <string name="label_request">IP address or domain name</string>
+    <string name="label_response">Information about the address</string>
+    <string name="hint_request">Enter address</string>
+    <string name="error_field">Enter correct address</string>
+    <string name="error">Error</string>
+    <string name="success">Data received</string>
+    <string name="send_hint">The request is sent</string>
+
+    <string name="city">City: </string>
+    <string name="region_name">Region name: </string>
+    <string name="time_zone">Time zone: </string>
+    <string name="longitude">Longitude: </string>
+    <string name="country_code">Country code: </string>
+    <string name="latitude">Latitude: </string>
+    <string name="country_name">Country name: </string>
+    <string name="no_data">No data </string>
+
+</resources>

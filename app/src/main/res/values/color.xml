@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_home">#ff0c5b5c</color>
+    <color name="background_textview">#8ccdcf</color>
+    <color name="background_edittext">#c9ced2</color>
+    <color name="color_label">#ffffffff</color>
+
+</resources>

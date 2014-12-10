@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Сервис</string>
+    <string name="btn_request">Отправить</string>
+    <string name="label_request">IP-адрес или доменное имя</string>
+    <string name="label_response">Информация об адресе</string>
+    <string name="hint_request">Введите адрес</string>
+    <string name="error_field">Введите правильный адрес</string>
+    <string name="error">Ошибка</string>
+    <string name="success">Данные получены</string>
+    <string name="send_hint">Запрос отправлен</string>
+
+    <string name="city">Город: </string>
+    <string name="region_name">Название региона: </string>
+    <string name="time_zone">Часовой пояс: </string>
+    <string name="longitude">Долгота: </string>
+    <string name="country_code">Код страны: </string>
+    <string name="latitude">Широта: </string>
+    <string name="country_name">Название страны: </string>
+    <string name="no_data">Нет данных </string>
+
+</resources>
